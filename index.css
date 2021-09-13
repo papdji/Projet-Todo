@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-size: 1.em;
+}
+header{
+    background-color: rgb(247, 204, 88);
+    padding: 19px 0px;
+}
+header h1{
+    color: rgb(248, 246, 250);
+    text-align: center;
+}
+section:first-of-type{
+    background-color: rgb(134, 114, 248);
+}
+form:first-of-type{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+form:first-of-type label{
+    color: cornsilk;
+   
+}
+form:first-of-type input, orm:first-of-type selectf{
+    height: 60px;
+    width: 114px;
+    text-align: center;
+
+}
+}
+form:first-of-type input, orm:first-of-type{
+    background-color: rgb(17, 184, 17);
+    border-radius: one;
+    height: 60px;
+    width: 114px;
+    text-align: center;
+
+}
